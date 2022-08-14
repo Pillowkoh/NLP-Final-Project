@@ -6,17 +6,17 @@
 │   ├── dev.in					
 │   ├── dev.out
 │   └── train                 
-├── test						# Test dataset folder
+├── test						         # Test dataset folder
 │   ├── test.in
-├── partial						# Outputs folder
+├── partial						      # Outputs folder
 │   ├── dev.p2.out              
 │   ├── dev.p4.out              
 │   ├── dev.p5.out              
 │   ├── test.p6.CRF.out             
 │   └── test.p6.model.out
-├── conlleval.py				# Used for evaluation in part 1-6i
-├── eval.py						# Used for evaluation in part6ii
-├── model.pt					# Trained weights for part6ii
+├── conlleval.py				      # Used for evaluation in part 1-6i
+├── eval.py						      # Used for evaluation in part6ii
+├── model.pt					      # Trained weights for part6ii
 ├── part1.py					
 ├── part2.py
 ├── part3.py
@@ -25,7 +25,7 @@
 ├── part6i.py
 ├── part6ii.py
 ├── README.md
-└── Final_Report.pdf			# Report for final project
+└── Final_Report.pdf			      # Report for final project
 ```
 
 # Instructions
