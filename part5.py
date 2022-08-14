@@ -242,10 +242,10 @@ if __name__ == '__main__':
     f_p5 = get_feature_dict_p5(emission_count, transition_count, uni_count, bi_count, state_count)
 
     print('Decoding dataset/dev.in...')
-    decode_p5("dataset/dev.in", possible_states, f_p5, 'dataset/dev.p5.out')
+    decode_p5("dataset/dev.in", possible_states, f_p5, 'partial/dev.p5.out')
 
     print('Ran decoding on dataset/dev.in. Output: dataset/dev.p5.out')
 
     print('Running evaluation using conlleval...')
-    g_tags, p_tags = get_tags('dataset/dev.p5.out', 'dataset/dev.out')
+    g_tags, p_tags = get_tags('partial/dev.p5.out', 'dataset/dev.out')
     print(evaluate(g_tags,p_tags,verbose=True))

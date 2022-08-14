@@ -117,9 +117,10 @@ def decode_file(path, states, f, output_filename):
         for line in lines:
             formatted_line = line.strip()   
             
-            if(len(formatted_line) ==0):
-                sentences.append(sentence)
-                sentence = []
+            if(len(formatted_line) == 0):
+                if sentence:
+                    sentences.append(sentence)
+                    sentence = []
                 continue
             sentence.append(formatted_line)
 
@@ -171,12 +172,12 @@ if __name__ == '__main__':
     add_t_prob(f, transition_count, state_count)
 
     print('Decoding dataset/dev.in...')
-    decode_file("dataset/dev.in", possible_states, f, 'dataset/dev.p2.out')
+    decode_file("dataset/dev.in", possible_states, f, 'partial/dev.p2.out')
 
     print('Ran decoding on dataset/dev.in. Output: dataset/dev.p2.out')
 
     print('Running evaluation using conlleval...')
-    g_tags, p_tags = get_tags('dataset/dev.p2.out', 'dataset/dev.out')
+    g_tags, p_tags = get_tags('partial/dev.p2.out', 'dataset/dev.out')
     print(evaluate(g_tags,p_tags,verbose=True))
 
 

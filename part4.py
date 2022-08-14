@@ -10,7 +10,7 @@ def compute_gradients_with_reg(train_dataset, f, possible_states, eta = 0):
         x = [token_tag_pair[0] for token_tag_pair in sentence]
         y = [token_tag_pair[1] for token_tag_pair in sentence]
         feature_expected_counts = forward_backward(x, f, possible_states)
-        actual_counts = get_feature_count(x, y, f)
+        actual_counts = get_feature_count(x, y)
         
         for k, v in feature_expected_counts.items():
             feature_gradients[k] = feature_gradients.get(k, 0) + v
@@ -78,6 +78,7 @@ if __name__ == '__main__':
     train_dataset = read_train_file('./dataset/train')
 
     print('Getting features...')
+    f = {}
     transition_count, emission_count, state_count = get_transition_emission_counts(train_dataset)
     add_e_prob(f, emission_count, state_count)
     add_t_prob(f, transition_count, state_count)
@@ -90,8 +91,8 @@ if __name__ == '__main__':
         f[key] = weight[idx]
     
     print('Decoding dataset/dev.in...')
-    decode_file("dataset/dev.in", possible_states, f, 'dataset/dev.p4.out')
+    decode_file("dataset/dev.in", possible_states, f, 'partial/dev.p4.out')
 
     print('Running evaluation using conlleval...')
-    g_tags, p_tags = eval('dataset/dev.p4.out', 'dataset/dev.out')
+    g_tags, p_tags = eval('partial/dev.p4.out', 'dataset/dev.out')
     print(evaluate(g_tags,p_tags,verbose=True))

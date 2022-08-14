@@ -268,8 +268,9 @@ def decode_p6i(path, states, f, output_filename):
             formatted_line = line.strip()   
             
             if(len(formatted_line) ==0):
-                sentences.append(sentence)
-                sentence = []
+                if sentence:
+                    sentences.append(sentence)
+                    sentence = []
                 continue
             sentence.append(formatted_line)
 

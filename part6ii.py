@@ -11,6 +11,10 @@ from conlleval import evaluate, evaluate_conll_file
 from part1 import *
 from part2 import get_tags
 
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+BATCH_SIZE = 32
+SEQ_LENGTH = 75
+
 def build_vocab(words):
     counter = Counter()
     for word_lst in words:
@@ -188,7 +192,6 @@ if __name__ == '__main__':
     
     # model training
     print('Training model...')
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model = ABSA_model(vocab_size=len(train_vocab), num_tags=len(train_tags_vocab), embedding_dim=100, hidden_dim=100, n_layers=2)
     model.to(device)
     lr = 0.001
@@ -204,7 +207,7 @@ if __name__ == '__main__':
     # model prediction  and evaluation
     print('Predicting on dataset/dev.in...')
     special_tags = (START_TOKEN_IDX, STOP_TOKEN_IDX, PAD_TOKEN_IDX)
-    predict_dev_in(model, 'dataset/dev.in', 'dataset/dev.6ii.out', train_vocab, train_tags_vocab, special_tags)
+    predict_dev_in(model, 'dataset/dev.in', 'dataset/dev.p6ii.out', train_vocab, train_tags_vocab, special_tags)
 
     # model evaluation
     print('Running evaluation using conlleval...')
