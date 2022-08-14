@@ -12,9 +12,9 @@ if __name__ == '__main__':
     if len(sys.argv) < 2:
         print('Printing evaluations for Parts 2, 4, 5, 6i and 6ii. Ensure that output files are in dataset directory')
 
-        for part in ['2', '4', '5', '6i', '6ii']:
+        for part in ['2', '4', '5']:
             print('Part {}'.format(part))
-            pred_fn = 'dataset/dev.p' + part + '.out'
+            pred_fn = 'partial/dev.p' + part + '.out'
 
             g_tags, p_tags = get_tags(pred_fn, 'dataset/dev.out')
             print(evaluate(g_tags,p_tags,verbose=True))
