@@ -174,7 +174,7 @@ if __name__ == '__main__':
     print('Decoding dataset/dev.in...')
     decode_file("dataset/dev.in", possible_states, f, 'partial/dev.p2.out')
 
-    print('Ran decoding on dataset/dev.in. Output: dataset/dev.p2.out')
+    print('Ran decoding on dataset/dev.in. Output: partial/dev.p2.out')
 
     print('Running evaluation using conlleval...')
     g_tags, p_tags = get_tags('partial/dev.p2.out', 'dataset/dev.out')
