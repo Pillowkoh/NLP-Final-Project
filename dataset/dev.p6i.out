@@ -11,15 +11,15 @@ hip O
 20-30 O
 something O
 pop O
-music O
+music B-positive
 , O
 but O
 the O
-subwoofer B-negative
-to I-negative
-the I-negative
-sound I-negative
-system I-negative
+subwoofer O
+to O
+the O
+sound O
+system O
 was O
 located O
 under O
@@ -35,13 +35,13 @@ dinner O
 . O
 
 This O
-place O
+place B-positive
 has O
 ruined O
 me O
 for O
 neighborhood O
-sushi B-positive
+sushi O
 . O
 
 I O
@@ -50,7 +50,7 @@ never O
 eaten O
 in O
 the O
-restaurant O
+restaurant B-negative
 , O
 however O
 , O
@@ -70,7 +70,7 @@ It O
 isn't O
 the O
 cheapest O
-sushi B-neutral
+sushi O
 but O
 has O
 been O
@@ -85,7 +85,7 @@ sum O
 it O
 up O
 : O
-Service B-neutral
+Service B-negative
 varies O
 from O
 good O
@@ -186,7 +186,7 @@ citysearch O
 for O
 the O
 same O
-place O
+place B-negative
 is O
 because O
 they O
@@ -227,11 +227,11 @@ them O
 . O
 
 A O
-gentleman B-negative
+gentleman O
 , O
 maybe O
 the O
-manager O
+manager B-negative
 , O
 came O
 to O
@@ -260,8 +260,8 @@ Food I-positive
 
 cirspy O
 crust O
-margherita B-positive
-pizza I-positive
+margherita O
+pizza O
 
 My O
 friends O
@@ -310,9 +310,9 @@ hungry O
 . O
 
 best O
-honey B-positive
-walnyt I-positive
-prawns I-positive
+honey O
+walnyt O
+prawns O
 that O
 we O
 have O
@@ -326,7 +326,7 @@ is O
 reasonable O
 although O
 the O
-service B-negative
+service O
 is O
 poor O
 . O
@@ -337,7 +337,7 @@ sushi B-positive
 I O
 love O
 this O
-restaurant B-positive
+restaurant B-negative
 . O
 
 Someone O
@@ -353,7 +353,7 @@ that O
 . O
 
 This O
-place B-positive
+place B-negative
 is O
 the O
 most O
@@ -390,14 +390,14 @@ BIG O
 COMPLAINT O
 : O
 NO O
-TOASTING O
+TOASTING B-negative
 AVAILABLE O
 . O
 
 Have O
 the O
-iced B-positive
-tea I-positive
+iced B-negative
+tea I-negative
 . O
 
 It's O
@@ -416,8 +416,8 @@ it O
 
 While O
 their O
-kitchen B-positive
-food I-positive
+kitchen O
+food O
 is O
 delicious O
 , O
@@ -432,10 +432,10 @@ world O
 
 Good O
 for O
-late O
-night O
-dining O
-( O
+late B-positive
+night I-positive
+dining I-positive
+( I-positive
 last O
 minute O
 planning O
@@ -499,7 +499,7 @@ and O
 drink O
 ... O
 this O
-place O
+place B-negative
 is O
 not O
 worth O
@@ -510,8 +510,8 @@ I've O
 been O
 to O
 at O
-Cafe B-positive
-Spice I-positive
+Cafe O
+Spice O
 probably O
 5-8 O
 times O
@@ -536,13 +536,13 @@ I O
 had O
 with O
 this O
-place O
+place B-negative
 was O
 the O
 complete O
 lack O
 of O
-service B-negative
+service B-positive
 . O
 
 When O
@@ -591,7 +591,7 @@ hard O
 time O
 getting O
 the O
-waitress B-negative
+waitress O
 ' O
 attention O
 and O
@@ -607,13 +607,13 @@ to O
 speak O
 to O
 a O
-manager O
+manager B-negative
 . O
 
 How O
 is O
 this O
-palce B-negative
+palce O
 still O
 open O
 ? O
@@ -658,21 +658,21 @@ hype O
 ... O
 
 Small O
-servings B-negative
-for I-negative
-main I-negative
-entree I-negative
+servings O
+for O
+main B-positive
+entree I-positive
 , O
 i O
 had O
-salmon B-negative
+salmon O
 ( O
 wasnt O
 impressed O
 ) O
 girlfriend O
 had O
-chicken B-positive
+chicken O
 , O
 it O
 was O
@@ -683,7 +683,7 @@ This O
 is O
 a O
 nice O
-restaurant B-positive
+restaurant O
 if O
 you O
 are O
@@ -691,12 +691,12 @@ looking O
 for O
 a O
 good O
-place O
+place B-positive
 to O
 host O
 an O
 intimate O
-dinner O
+dinner B-positive
 meeting O
 with O
 business O
@@ -761,7 +761,7 @@ menu B-positive
 . O
 
 The O
-mussles B-negative
+mussles B-neutral
 were O
 the O
 fishiest O
@@ -776,20 +776,20 @@ was O
 bland O
 , O
 the O
-goat B-negative
-cheese I-negative
-salad I-negative
+goat O
+cheese O
+salad O
 was O
 missing O
 the O
-goat O
-cheese O
+goat B-positive
+cheese I-positive
 , O
 the O
-penne B-negative
-w I-negative
-/ I-negative
-chicken I-negative
+penne O
+w O
+/ O
+chicken B-negative
 had O
 bones O
 in O
@@ -824,7 +824,7 @@ be O
 bumped O
 sent O
 the O
-waitress O
+waitress B-positive
 into O
 an O
 abusive O
@@ -859,9 +859,9 @@ completely O
 taken O
 by O
 the O
-live B-positive
-jazz I-positive
-band I-positive
+live O
+jazz O
+band B-positive
 and O
 atmosphere B-positive
 , O
@@ -920,17 +920,17 @@ fantastic O
 at O
 this O
 fun O
-place B-positive
+place B-negative
 . O
 
 I O
 had O
 their O
-eggs B-negative
-benedict I-negative
-for O
-brunch O
-, O
+eggs B-positive
+benedict I-positive
+for I-positive
+brunch I-positive
+, I-positive
 which O
 were O
 the O
@@ -985,7 +985,7 @@ on O
 through O
 out O
 the O
-dinner O
+dinner B-negative
 . O
 
 On O
@@ -1002,7 +1002,7 @@ accidently O
 found O
 this O
 great O
-restaurant B-positive
+restaurant O
 on O
 our O
 way O
@@ -1040,23 +1040,23 @@ highly O
 recommend O
 visiting O
 this O
-restaurant B-positive
+restaurant O
 and O
 having O
-dinner O
+dinner B-positive
 and O
-drinks O
+drinks B-positive
 ! O
 
 There O
 is O
 only O
 one O
-place B-positive
+place O
 on O
 the O
-east O
-coast O
+east B-positive
+coast I-positive
 that O
 has O
 it O
@@ -1086,15 +1086,15 @@ eat O
 . O
 
 The O
-food B-positive
+food B-neutral
 is O
 good O
 , O
 especially O
 their O
 more O
-basic B-positive
-dishes I-positive
+basic B-negative
+dishes I-negative
 , O
 and O
 the O
@@ -1205,7 +1205,7 @@ tables O
 Consequently O
 , O
 their O
-burgers B-negative
+burgers O
 fell O
 apart O
 in O
@@ -1252,7 +1252,7 @@ way O
 to O
 begin O
 the O
-meal O
+meal B-positive
 . O
 
 Whose O
@@ -1295,7 +1295,7 @@ been O
 featured O
 on O
 the O
-food O
+food B-positive
 network O
 and O
 they O
@@ -1303,8 +1303,8 @@ deserve O
 it O
 . O
 
-Tiny O
-dessert B-negative
+Tiny I-positive
+dessert I-positive
 was O
 $ O
 8.00 O
@@ -1319,7 +1319,7 @@ is O
 . O
 
 The O
-portions B-positive
+portions B-neutral
 are O
 HUGE O
 , O
@@ -1358,9 +1358,9 @@ they O
 have O
 a O
 good O
-selecion B-positive
-of I-positive
-wines I-positive
+selecion O
+of O
+wines O
 at O
 reasonable O
 prices O
@@ -1372,7 +1372,7 @@ bad O
 . O
 
 The O
-frizzy O
+frizzy B-negative
 retro O
 girl B-negative
 ( O
@@ -1414,7 +1414,7 @@ meal B-positive
 in O
 a O
 real O
-restaurant B-positive
+restaurant O
 , O
 not O
 a O
@@ -1438,7 +1438,7 @@ about O
 service B-negative
 . O
 
-Food B-neutral
+Food O
 was O
 OK O
 . O
@@ -1466,11 +1466,11 @@ I O
 don't O
 like O
 the O
-servers B-negative
+servers B-positive
 , O
 one O
-young B-negative
-woman I-negative
+young O
+woman O
 in O
 particular O
 . O
@@ -1485,7 +1485,7 @@ I've O
 gone O
 here O
 , O
-Bark B-neutral
+Bark O
 always O
 delivers O
 on O
@@ -1526,7 +1526,7 @@ chefs O
 decide O
 to O
 use O
-fish B-negative
+fish O
 that's O
 half-way O
 decent O
@@ -1560,9 +1560,9 @@ another O
 All O
 the O
 various O
-Greek B-positive
-and I-positive
-Cypriot I-positive
+Greek O
+and O
+Cypriot B-positive
 dishes I-positive
 are O
 excellent O
@@ -1633,14 +1633,14 @@ not O
 only O
 is O
 the O
-food B-positive
+food O
 
 this O
 place O
 had O
 ALL O
 the O
-trimmings B-positive
+trimmings O
 and O
 i O
 mean O
@@ -1648,9 +1648,9 @@ all O
 . O
 
 great O
-beer B-positive
+beer O
 
-lobster B-neutral
+lobster B-positive
 was O
 good O
 , O
@@ -1684,9 +1684,9 @@ and O
 another O
 one O
 in O
-parsipanny O
-new O
-jersey O
+parsipanny B-positive
+new I-positive
+jersey I-positive
 . O
 
 However O
@@ -1694,7 +1694,7 @@ However O
 the O
 value O
 and O
-service B-negative
+service O
 are O
 both O
 severely O
@@ -1704,7 +1704,7 @@ lacking O
 However O
 , O
 this O
-place B-positive
+place B-negative
 is O
 a O
 gem O
@@ -1743,18 +1743,18 @@ that O
 we O
 ordered O
 were O
-prawns O
-and O
-scallop O
-with O
-brocolli O
+prawns B-positive
+and I-positive
+scallop I-positive
+with I-positive
+brocolli I-positive
 . O
 
 Suan B-positive
 is O
 a O
 great O
-place O
+place B-positive
 that O
 I O
 often O
@@ -1785,12 +1785,12 @@ won't O
 go O
 to O
 this O
-place O
+place B-positive
 again O
 for O
 a O
 good O
-meal B-negative
+meal B-positive
 . O
 
 The O
@@ -1834,7 +1834,7 @@ expensive O
 than O
 your O
 average O
-bagel O
+bagel B-positive
 place O
 . O
 
@@ -1874,7 +1874,7 @@ delicious O
 ! O
 
 A O
-restaurant O
+restaurant B-negative
 that O
 doesn't O
 try O
@@ -1891,7 +1891,7 @@ service B-positive
 in O
 a O
 pleasant O
-atmosphere B-positive
+atmosphere O
 . O
 
 Appetizers O
@@ -1901,14 +1901,14 @@ an O
 hour O
 . O
 
-Chow B-negative
-fun I-negative
+Chow I-negative
+fun O
 was O
 dry O
 ; O
-pork B-negative
-shu I-negative
-mai I-negative
+pork B-positive
+shu I-positive
+mai O
 was O
 more O
 than O
@@ -1950,8 +1950,8 @@ spicy O
 food O
 get O
 the O
-chicken B-positive
-vindaloo I-positive
+chicken B-negative
+vindaloo I-negative
 . O
 
 This O
@@ -1989,14 +1989,14 @@ quite O
 expert O
 on O
 the O
-cuisine O
+cuisine B-positive
 . O
 
 For O
 the O
 amount O
 of O
-food B-negative
+food O
 we O
 got O
 the O
@@ -2020,7 +2020,7 @@ secret O
 . O
 
 The O
-quantity O
+quantity B-positive
 is O
 also O
 very O
@@ -2083,7 +2083,7 @@ was O
 great O
 , O
 the O
-margaritas B-positive
+margaritas B-negative
 too O
 but O
 the O
@@ -2115,8 +2115,8 @@ both O
 opted O
 for O
 a O
-pasta B-positive
-dish I-positive
+pasta B-negative
+dish I-negative
 and O
 they O
 were O
@@ -2148,7 +2148,7 @@ Price O
 and O
 quality O
 of O
-fish B-negative
+fish B-positive
 alone O
 will O
 keep O
@@ -2171,8 +2171,8 @@ in O
 - O
 - O
 the O
-delivery B-negative
-guys I-negative
+delivery O
+guys O
 have O
 MAJOR O
 attitude O
@@ -2180,14 +2180,14 @@ attitude O
 
 big O
 thick O
-pepperoni B-positive
+pepperoni O
 
 Worth O
 visiting O
 the O
-1st B-positive
-Ave I-positive
-spot I-positive
+1st O
+Ave O
+spot O
 because O
 it O
 is O
@@ -2197,7 +2197,7 @@ store O
 . O
 
 This O
-place O
+place B-positive
 has O
 the O
 best O
@@ -2210,15 +2210,15 @@ the O
 city O
 . O
 
-Perfection O
+Perfection I-neutral
 . O
 
 Best O
 drumsticks B-positive
 over I-positive
 rice I-positive
-and O
-sour B-positive
+and I-positive
+sour I-positive
 spicy I-positive
 soup I-positive
 in O
@@ -2242,7 +2242,7 @@ wonderful O
 than O
 the O
 food B-positive
-( O
+( I-positive
 which O
 is O
 exceptional O
@@ -2282,7 +2282,7 @@ us O
 we've O
 been O
 eating O
-sushi O
+sushi B-positive
 for O
 over O
 15 O
@@ -2322,12 +2322,12 @@ deal O
 I O
 ordered O
 the O
-smoked B-negative
-salmon I-negative
-and I-negative
-roe I-negative
-appetizer I-negative
+smoked O
+salmon O
 and O
+roe O
+appetizer B-positive
+and I-positive
 it O
 was O
 off O
@@ -2377,12 +2377,12 @@ a O
 fine O
 and O
 delicious O
-meal O
+meal B-positive
 for O
 2 O
 on O
-special O
-occassions O
+special B-positive
+occassions I-positive
 . O
 
 I O
@@ -2401,8 +2401,8 @@ Personally O
 I O
 like O
 the O
-margherita B-positive
-pizza I-positive
+margherita O
+pizza O
 better O
 , O
 but O
@@ -2448,7 +2448,7 @@ rude O
 
 The O
 Cypriot B-positive
-restaurant I-positive
+restaurant O
 has O
 a O
 lot O
@@ -2462,7 +2462,7 @@ found O
 the O
 food B-positive
 , O
-service B-positive
+service O
 and O
 value O
 exceptional O
@@ -2486,12 +2486,12 @@ as O
 were O
 the O
 filling O
-pasta B-positive
-mains I-positive
+pasta O
+mains B-positive
 . O
 
-Caesar B-positive
-salad I-positive
+Caesar O
+salad O
 was O
 superb O
 . O
@@ -2517,15 +2517,15 @@ can O
 highly O
 recommend O
 their O
-various O
-saag B-positive
-and O
-paneer B-positive
-and O
-korma B-positive
+various B-positive
+saag I-positive
+and I-positive
+paneer I-positive
+and I-positive
+korma I-positive
 . O
 
-Baluchi's B-positive
+Baluchi's I-neutral
 has O
 solid O
 food B-positive
@@ -2583,20 +2583,20 @@ a O
 stranger O
 to O
 this O
-place B-positive
+place B-negative
 for O
 so O
 long O
 ... O
 the O
-fajita B-positive
-salad I-positive
+fajita B-negative
+salad I-negative
 , O
 the O
-colorado B-positive
+colorado O
 , O
 the O
-fajitas B-positive
+fajitas O
 - O
 EVERYTHING O
 is O
@@ -2610,16 +2610,16 @@ and O
 friendly O
 . O
 
-Furthermore O
+Furthermore I-positive
 , O
 while O
 the O
 fish B-positive
 is O
 unquestionably O
-fresh O
+fresh B-positive
 , O
-rolls B-negative
+rolls O
 tend O
 to O
 be O
@@ -2636,8 +2636,8 @@ tasty O
 , O
 but O
 the O
-sitting B-negative
-space I-negative
+sitting O
+space O
 was O
 too O
 small O
@@ -2672,7 +2672,7 @@ the O
 food B-positive
 and O
 the O
-service B-positive
+service B-negative
 was O
 . O
 
@@ -2685,7 +2685,7 @@ go O
 back O
 to O
 this O
-place B-negative
+place B-positive
 again O
 . O
 
@@ -2696,7 +2696,7 @@ the O
 corner O
 from O
 this O
-place O
+place B-negative
 for O
 over O
 a O
@@ -2720,7 +2720,7 @@ over-rated O
 Always O
 ask O
 the O
-bartender O
+bartender B-negative
 for O
 the O
 SEASONAL B-positive
@@ -2764,7 +2764,7 @@ the O
 entire O
 time O
 a O
-place B-positive
+place O
 is O
 open O
 , O
@@ -2829,7 +2829,7 @@ off O
 . O
 
 The O
-place O
+place B-neutral
 is O
 a O
 BISTRO O
@@ -2849,7 +2849,7 @@ atmosphere B-positive
 . O
 
 Authentic O
-Shanghai O
+Shanghai B-positive
 style O
 and O
 I O
@@ -2904,9 +2904,9 @@ the O
 table O
 . O
 
-La B-positive
-Rosa I-positive
-waltzes O
+La I-negative
+Rosa I-negative
+waltzes I-negative
 in O
 , O
 and O
@@ -2995,9 +2995,9 @@ CAN O
 YOU O
 SAY O
 NICE O
-PEOPLE B-positive
+PEOPLE O
 AMAZING O
-FOOD B-positive
+FOOD O
 WOW O
 
 This O
@@ -3021,7 +3021,7 @@ theater O
 He O
 offers O
 subpar O
-service B-negative
+service B-positive
 and O
 has O
 no O
@@ -3062,7 +3062,7 @@ a O
 variety O
 of O
 the O
-beer B-positive
+beer O
 ( O
 cold O
 and O
@@ -3079,29 +3079,29 @@ forever O
 . O
 
 This O
-restaurant O
+restaurant B-negative
 is O
 VEGETARIAN O
 ; O
 there O
-are O
+are B-negative
 NO O
-MEAT O
-dishes B-negative
-whatsoever O
+MEAT B-negative
+dishes I-negative
+whatsoever I-negative
 . O
 
 Maggot O
 in O
 the O
-food B-negative
+food B-positive
 ! O
 
 highly O
 recommended O
 . O
 
-Service B-negative
+Service B-neutral
 was O
 just O
 ok O
@@ -3162,7 +3162,7 @@ by O
 . O
 
 The O
-owner B-positive
+owner O
 truly O
 caters O
 to O
@@ -3171,7 +3171,7 @@ your O
 needs O
 . O
 
-Seabass B-positive
+Seabass I-positive
 on I-positive
 lobster I-positive
 risotto I-positive
@@ -3188,17 +3188,17 @@ reasonable O
 
 The O
 duck B-positive
-confit I-positive
+confit O
 is O
 always O
 amazing O
 and O
 the O
-foie B-positive
-gras I-positive
-terrine I-positive
-with I-positive
-figs I-positive
+foie O
+gras O
+terrine O
+with O
+figs O
 was O
 out O
 of O
@@ -3237,7 +3237,7 @@ it O
 fresh O
 and O
 continually O
-refilled O
+refilled B-negative
 . O
 
 Lexicographers O
@@ -3264,9 +3264,9 @@ Brooklyn O
 The O
 service B-positive
 is O
-good O
+good B-positive
 and O
-ambience B-positive
+ambience B-neutral
 is O
 good O
 for O
@@ -3278,7 +3278,7 @@ outing O
 . O
 
 The O
-place B-negative
+place B-positive
 is O
 small O
 and O
@@ -3337,7 +3337,7 @@ nice O
 to O
 see O
 a O
-place O
+place B-negative
 that O
 bucks O
 that O
@@ -3409,7 +3409,7 @@ the O
 experience O
 of O
 good O
-food B-negative
+food O
 and O
 belly O
 dancers O
@@ -3450,7 +3450,7 @@ Decor B-positive
 is O
 nice O
 though O
-service B-negative
+service O
 can O
 be O
 spotty O
@@ -3461,7 +3461,7 @@ of O
 all O
 , O
 this O
-place B-negative
+place O
 is O
 * O
 not O
@@ -3481,7 +3481,7 @@ far O
 , O
 the O
 best O
-pizza B-positive
+pizza O
 in O
 Manhattan O
 . O
@@ -3499,10 +3499,10 @@ the O
 bill O
 . O
 
-The O
-Prix B-positive
-Fixe I-positive
-menu I-positive
+The B-neutral
+Prix I-neutral
+Fixe O
+menu B-positive
 is O
 worth O
 every O
@@ -3598,7 +3598,7 @@ vice O
 versa O
 . O
 
-Rao's O
+Rao's B-positive
 has O
 the O
 best O
@@ -3616,14 +3616,14 @@ wait O
 , O
 because O
 the O
-place B-negative
+place B-positive
 is O
 pretty O
 tiny O
 . O
 
 The O
-bathroom B-negative
+bathroom O
 itself O
 is O
 very O
@@ -3637,7 +3637,7 @@ one O
 sink O
 , O
 the O
-girl O
+girl B-negative
 was O
 staying O
 totally O
@@ -3656,9 +3656,9 @@ dispenser O
 Went O
 to O
 this O
-place O
+place B-negative
 this O
-place O
+place B-positive
 on O
 a O
 real O
@@ -3668,7 +3668,7 @@ and O
 needed O
 a O
 quick O
-meal O
+meal B-positive
 . O
 
 We'd O
@@ -3695,7 +3695,7 @@ some O
 of O
 the O
 worst O
-sushi B-negative
+sushi O
 I O
 have O
 ever O
@@ -3734,7 +3734,7 @@ get O
 dessert O
 but O
 the O
-waitress B-negative
+waitress O
 basically O
 through O
 the O
@@ -3754,8 +3754,8 @@ The O
 rest O
 of O
 the O
-dim B-negative
-sum I-negative
+dim O
+sum O
 , O
 though O
 pricey O
@@ -3810,10 +3810,10 @@ Not O
 much O
 of O
 a O
-selection B-negative
-of I-negative
-bottled I-negative
-beer I-negative
+selection B-positive
+of I-positive
+bottled O
+beer O
 either O
 , O
 we O
@@ -3838,13 +3838,13 @@ more O
 ) O
 . O
 
-Don O
+Don I-positive
 ’ O
 t O
 go O
 to O
 this O
-place B-negative
+place B-positive
 ! O
 
 To O
@@ -3858,12 +3858,12 @@ us O
 went O
 to O
 Mare O
-anticipating O
+anticipating B-positive
 great O
-food O
+food B-positive
 . O
 
-Of O
+Of I-positive
 course O
 , O
 it O
@@ -3874,7 +3874,7 @@ who O
 cares O
 . O
 
-Saul B-positive
+Saul I-positive
 is O
 the O
 best O
@@ -3892,10 +3892,10 @@ left O
 without O
 ever O
 getting O
-service B-negative
+service O
 . O
 
-Cheese B-positive
+Cheese I-positive
 plate I-positive
 is O
 a O
@@ -3952,7 +3952,7 @@ recent O
 trip O
 , O
 our O
-waiter B-negative
+waiter B-positive
 was O
 extremely O
 dismissive O
@@ -3962,8 +3962,8 @@ no O
 less O
 than O
 three O
-staff B-negative
-members I-negative
+staff O
+members O
 waited O
 hand-and-foot O
 on O
@@ -3987,8 +3987,8 @@ stairs O
 going O
 up O
 with O
-mirrored B-negative
-walls I-negative
+mirrored B-positive
+walls I-positive
 - O
 I O
 am O
@@ -4006,7 +4006,7 @@ off O
 the O
 stairs O
 - O
-mirrored O
+mirrored B-positive
 walls O
 make O
 you O
@@ -4020,16 +4020,16 @@ Schooner O
 or O
 Later's O
 charming O
-location B-positive
-along I-positive
-the I-positive
-marina I-positive
-in I-positive
-Long I-positive
-Beach I-positive
+location O
+along O
+the O
+marina O
+in O
+Long O
+Beach O
 and O
 average O
-food B-neutral
+food B-positive
 does O
 not O
 , O
@@ -4044,11 +4044,11 @@ customer B-negative
 service I-negative
 . O
 
-Problem O
+Problem B-neutral
 is O
 nothing O
 at O
-Prune B-negative
+Prune O
 is O
 particularly O
 memorable O
@@ -4060,14 +4060,14 @@ in O
 line O
 . O
 
-Unique O
-apppetizers B-positive
+Unique I-neutral
+apppetizers I-neutral
 . O
 
 The O
-family B-positive
-seafood I-positive
-entree I-positive
+family O
+seafood O
+entree O
 was O
 very O
 good O
